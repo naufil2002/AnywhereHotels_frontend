@@ -1,0 +1,146 @@
+[
+  {
+    "name": "SMALL ROOM",
+    "category": "@ Person",
+    "price": "200 / Night",
+    "image": "https://preview.colorlib.com/theme/samira/images/room_9.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "ROYAL ROOM",
+    "category": "6 Person",
+    "price": "500 / Night",
+    "image": "https://preview.colorlib.com/theme/roberto/img/bg-img/45.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "FAMILY ROOM",
+    "category": "8 Person",
+    "price": "300 / Night",
+    "image": "https://preview.colorlib.com/theme/roberto/img/bg-img/46.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "5 STAR ROOM",
+    "category": "5 Person",
+    "price": "1100 / Night",
+    "image": "https://preview.colorlib.com/theme/roberto/img/bg-img/43.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "7 STAR ROOM",
+    "category": "7 Person",
+    "price": "1500 / Night",
+    "image": "https://preview.colorlib.com/theme/roberto/img/bg-img/47.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "8 STAR ROOM",
+    "category": "8 Person",
+    "price": "2000 / Night",
+    "image": "https://preview.colorlib.com/theme/suites/images/img_4.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "SINGLE ROOM",
+    "category": "2 Person",
+    "price": "200 / Night",
+    "image": "https://preview.colorlib.com/theme/hotel/img/room/rooms-1.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "DELUXE ROOM",
+    "category": "6 Person",
+    "price": "500 / Night",
+    "image": "https://preview.colorlib.com/theme/hotel/img/room/rooms-4.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "LUXURY ROOM",
+    "category": "8 Person",
+    "price": "1000 / Night",
+    "image": "https://preview.colorlib.com/theme/hotel/img/room/rooms-5.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "STANDARD ROOM",
+    "category": "5 Person",
+    "price": "300 / Nihght",
+    "image": "https://preview.colorlib.com/theme/hotel/img/room-footer-pic/room-2.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "PREMIUIM ROOM",
+    "category": "5 Person",
+    "price": "500 / Night",
+    "image": "https://preview.colorlib.com/theme/hotel/img/room-footer-pic/room-4.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "FAMILY ROOM",
+    "category": "12 Person",
+    "price": "400 / Night ",
+    "image": "https://preview.colorlib.com/theme/major/images/rooms_2.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "STANDARD ROOM",
+    "category": "5 Person",
+    "price": "300 / NIGTH",
+    "image": "https://preview.colorlib.com/theme/rolax/assets/img/gallery/hotel1.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "FAMILY ROOM",
+    "category": "10 Person",
+    "price": "400 / Night",
+    "image": "https://preview.colorlib.com/theme/suites/images/img_2.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "SINGLE ROOM",
+    "category": "2 PERSON",
+    "price": "250 / Night",
+    "image": "https://preview.colorlib.com/theme/suites/images/img_3.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "DELUXE ROOM",
+    "category": "5 Person",
+    "price": "450 / Night",
+    "image": "https://preview.colorlib.com/theme/ocheandeview/assets/img/gallery/rooms1.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "LUXURY ROOM",
+    "category": "7 Person",
+    "price": "1000 / Night",
+    "image": "https://preview.colorlib.com/theme/rolax/assets/img/gallery/hotel3.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  },
+  {
+    "name": "PREMIUIM ROOM",
+    "category": "10 Person",
+    "price": "800 / Night",
+    "image": "https://preview.colorlib.com/theme/rolax/assets/img/gallery/hotel2.jpg",
+    "width" : "100%",
+    "height" : "280px"
+  }
+]
