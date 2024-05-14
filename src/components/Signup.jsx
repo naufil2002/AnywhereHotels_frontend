@@ -106,7 +106,9 @@ function Signup() {
               </div>
               {/* Button */}
               <div className="flex justify-around mt-4">
-                <button className="bg-stone-500 hover:bg-black text-white rounded-md px-3 py-1 duration-200">
+                <button className="bg-stone-500 hover:bg-black text-white rounded-md px-3 py-1 duration-200"  onClick={() =>
+                      document.getElementById("my_modal_3").showModal()
+                    }>
                   Signup
                 </button>
                 <p className="text-xl">
