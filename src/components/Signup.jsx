@@ -43,7 +43,7 @@ function Signup() {
     <>
       <div className="flex h-screen font-serif items-center justify-center">
         <div className=" w-[600px] ">
-          <div className="modal-box bg-stone-300">
+          <div className="modal-box text-black bg-stone-300">
             <form onSubmit={handleSubmit(onSubmit)} method="dialog">
               {/* if there is a button in form, it will close the modal */}
               <Link
@@ -60,7 +60,7 @@ function Signup() {
                 <input
                   type="text"
                   placeholder="Enter your fullname"
-                  className="w-80 px-3 py-1 border rounded-md outline-none"
+                  className="w-80 px-3 py-1 text-white border rounded-md outline-none"
                   {...register("fullname", { required: true })}
                 />
                 <br />
@@ -77,7 +77,7 @@ function Signup() {
                 <input
                   type="email"
                   placeholder="Enter your email"
-                  className="w-80 px-3 py-1 border rounded-md outline-none"
+                  className="w-80 px-3 py-1 text-white border rounded-md outline-none"
                   {...register("email", { required: true })}
                 />
                 <br />
@@ -94,7 +94,7 @@ function Signup() {
                 <input
                   type="text"
                   placeholder="Enter your password"
-                  className="w-80 px-3 py-1 border rounded-md outline-none"
+                  className="w-80 px-3 py-1 border text-white rounded-md outline-none"
                   {...register("password", { required: true })}
                 />
                 <br />

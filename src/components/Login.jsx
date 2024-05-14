@@ -96,7 +96,7 @@ function Login() {
                 Not registered?{" "}
                 <Link
                   to="/signup"
-                  className="underline text-stone-800 cursor-pointer"
+                  className="underline textwh text-white cursor-pointer"
                 >
                   Signup
                 </Link>{" "}
